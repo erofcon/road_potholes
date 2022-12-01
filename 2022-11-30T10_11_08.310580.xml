@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="">
+    <metadata>
+        <name></name>
+        <time>2022-11-30T07:10:57.887167Z</time>
+    </metadata>
+    <wpt lat="43.4916379" lon="43.6066685">
+        <time>2022-11-30T07:11:08.851Z</time>
+    </wpt>
+    <wpt lat="43.4916234" lon="43.6066756">
+        <time>2022-11-30T07:11:13.875Z</time>
+    </wpt>
+    <wpt lat="43.491632" lon="43.6066717">
+        <time>2022-11-30T07:11:19.110Z</time>
+    </wpt>
+    <wpt lat="43.4916628" lon="43.6066393">
+        <time>2022-11-30T07:11:24.123Z</time>
+    </wpt>
+    <wpt lat="43.4916702" lon="43.6066334">
+        <time>2022-11-30T07:11:28.974Z</time>
+    </wpt>
+</gpx>
